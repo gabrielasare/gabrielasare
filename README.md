@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Asare
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in algorithms, ML, full-stack, 
+- 🌱 I’m love learning new things and building products
+- 💞️ You can reach me on 
 - 📫gabekwekuasare@gmail.com
 
 <!---
