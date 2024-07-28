@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gabriel Asare
-- 👀 I’m interested in algorithms, ML, full-stack, 
-- 🌱 I’m love learning new things and building products
+- 👀 I’m interested in algorithms, ML, Software Engineering, Full-stack
+- 🌱 I love learning new things and building products
 - 💞️ You can reach me on 
-- 📫gabekwekuasare@gmail.com
+- 📫asaregabe@gmail.com
 
 <!---
 gabrielasare/gabrielasare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
